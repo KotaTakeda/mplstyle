@@ -1,1 +1,4 @@
 # mplstyle
+
+## requirements
+- matplotlib
